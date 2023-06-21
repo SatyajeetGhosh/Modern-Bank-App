@@ -1,3 +1,5 @@
+<h3>To get a preview <a href="https://hoobank-react-js.netlify.app/">Click Here</a> or go to https://hoobank-react-js.netlify.app/</h3>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
